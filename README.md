@@ -1,2 +1,2 @@
 # LeetCode
-Daily Leetcode solutions.
+Daily Leetcode Problem Sovling.
